@@ -1,0 +1,20 @@
+scheme: "Slack Colors Dark"
+author: "Kien Nguyen <kiennt2609@gmail.com>"
+base00: "181818" # Deep Background
+base01: "252525" # Secondary BG (+10% lightness from 282828)
+base02: "353535" # Selection BG (+15% from 383838)
+base03: "686868" # Muted Comments
+base04: "808080" # Medium Text
+base05: "909090" # Primary Content
+base06: "b0b0b0" # Bright Text
+base07: "ffffff" # Maximum Contrast
+
+# Accent Colors (consistent with Slack branding)
+base08: "e01563" # Razzmatazz (Critical)
+base09: "e9a820" # Fuel Yellow (Warnings)
+base0A: "e9a820" # Highlights
+base0B: "3eb991" # Keppel (Success)
+base0C: "6ecadc" # Viking (Info)
+base0D: "6ecadc" # Interactive
+base0E: "e01563" # Tags/Special
+base0F: "3eb991" # Status
