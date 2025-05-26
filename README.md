@@ -15,7 +15,7 @@ A Neovim colorscheme ported from [Slack](https://slack.com) colorscheme
 
 | Dark                                                                         | Light                                                                         |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| <img src="images/dark.png" alt="dark" style="border-radius:1%" width="70%"/> | <img src="images/light.png" alt="dark" style="border-radius:1%" width="70%"/> |
+| <img src="images/dark.png" alt="dark" style="border-radius:1%" width="100%"/> | <img src="images/light.png" alt="dark" style="border-radius:1%" width="100%"/> |
 
 Table of content:
 - [1. ✨ Features](#1--features)
