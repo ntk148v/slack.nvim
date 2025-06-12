@@ -67,7 +67,7 @@ function M.get_colors()
 		cyan_dark = base_colors.base0C,
 		fg = base_colors.base05,
 		fg_light = base_colors.base06,
-		fg_dark = "#676e96",
+		fg_dark = base_colors.base04,
 		white = base_colors.base07,
 	}
 end
