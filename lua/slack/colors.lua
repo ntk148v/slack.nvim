@@ -49,8 +49,8 @@ function M.get_colors()
 		bg = base_colors.base01,
 		bg_light = base_colors.base02,
 		bg_lighter = base_colors.base03,
-		grey = "#8796b0",
-		grey_dark = base_colors.base04,
+		grey = base_colors.base04,
+		grey_dark = base_colors.base05,
 		red = base_colors.base08,
 		heavy_red = base_colors.base08,
 		green = base_colors.base0B,
@@ -68,8 +68,6 @@ function M.get_colors()
 		fg = base_colors.base05,
 		fg_light = base_colors.base06,
 		fg_dark = "#676e96",
-		hollow = "#424760",
-		hollow_lighter = "#30354e",
 		white = base_colors.base07,
 	}
 end
