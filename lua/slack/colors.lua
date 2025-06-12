@@ -6,10 +6,10 @@ local M = {}
 function M.get_colors()
 	local base_colors = {
 		base00 = "#181818",
-		base01 = "#252525",
-		base02 = "#353535",
+		base01 = "#454545",
+		base02 = "#5a5a5a",
 		base03 = "#686868",
-		base04 = "#808080",
+		base04 = "#ababab",
 		base05 = "#909090",
 		base06 = "#b0b0b0",
 		base07 = "#ffffff",
@@ -26,10 +26,10 @@ function M.get_colors()
 	if bg == "light" then
 		base_colors = {
 			base00 = "#ffffff",
-			base01 = "#ececec",
-			base02 = "#d8d8d8",
+			base01 = "#d0d0d0",
+			base02 = "#a8a8a8",
 			base03 = "#a0a0a0",
-			base04 = "#707070",
+			base04 = "#505050",
 			base05 = "#484848",
 			base06 = "#303030",
 			base07 = "#181818",

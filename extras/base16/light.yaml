@@ -1,10 +1,10 @@
 scheme: "Slack Colors Light"
 author: "Kien Nguyen <kiennt2609@gmail.com>"
 base00: "ffffff" # Pure White Background
-base01: "ececec" # Soft Secondary Background (-4% brightness from f0f0f0)
-base02: "d8d8d8" # Muted Selection BG (-12% from e0e0e0)
+base01: "d0d0d0" # Soft Secondary Background (-4% brightness from f0f0f0)
+base02: "a8a8a8" # Muted Selection BG (-12% from e0e0e0)
 base03: "a0a0a0" # Warm Mid-Gray Comments
-base04: "707070" # Medium Contrast Text
+base04: "505050" # Medium Contrast Text
 base05: "484848" # Primary Content
 base06: "303030" # Strong Headings
 base07: "181818" # Maximum Contrast Text

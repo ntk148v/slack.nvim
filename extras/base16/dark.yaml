@@ -1,10 +1,10 @@
 scheme: "Slack Colors Dark"
 author: "Kien Nguyen <kiennt2609@gmail.com>"
 base00: "181818" # Deep Background
-base01: "252525" # Secondary BG (+10% lightness from 282828)
-base02: "353535" # Selection BG (+15% from 383838)
+base01: "454545" # Secondary BG (+10% lightness from 282828)
+base02: "5a5a5a" # Selection BG (+15% from 383838)
 base03: "686868" # Muted Comments
-base04: "808080" # Medium Text
+base04: "ababab" # Medium Text
 base05: "909090" # Primary Content
 base06: "b0b0b0" # Bright Text
 base07: "ffffff" # Maximum Contrast
